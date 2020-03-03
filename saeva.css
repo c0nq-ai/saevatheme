@@ -1,7 +1,7 @@
 :root { 	
     --background-dark-primary: #141414 !important;	
     --background-dark-secondary: #111111 !important;	
-    --background-dark-tertiary: #0c0c0c !important;	
+    --background-dark-tertiary: #00afff !important;	
     --header-primary: #fff !important;	
     --header-secondary: #b9bbbe !important;	
     --text-normal: #dcddde !important;	
@@ -13,7 +13,7 @@
     --interactive-muted: #4f545c !important;	
     --background-primary: #141414 !important;	
     --background-secondary: #111111 !important;	
-    --background-tertiary: #0c0c0c !important;	
+    --background-tertiary: #00afff !important;	
     --background-floating: #010101 !important;	
     --background-mobile-header: #2f3136 !important;	
     --background-modifier-hover: rgba(50,50,50,0.16) !important;	
