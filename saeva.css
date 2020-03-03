@@ -1,6 +1,6 @@
 :root { 	
-    --background-dark-primary: #141414 !important;	
-    --background-dark-secondary: #00afff !important;	
+    --background-dark-primary: #00afff !important;	
+    --background-dark-secondary: #111111 !important;	
     --background-dark-tertiary: #0c0c0c !important;	
     --header-primary: #fff !important;	
     --header-secondary: #b9bbbe !important;	
@@ -11,8 +11,8 @@
     --interactive-hover: #dcddde !important;	
     --interactive-active: #fff !important;	
     --interactive-muted: #4f545c !important;	
-    --background-primary: #141414 !important;	
-    --background-secondary: #00afff !important;	
+    --background-primary: #00afff !important;	
+    --background-secondary: #111111 !important;	
     --background-tertiary: #0c0c0c !important;	
     --background-floating: #010101 !important;	
     --background-mobile-header: #2f3136 !important;	
